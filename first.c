@@ -25,9 +25,9 @@ int main(){
     printf("Enter Gujrati Mark = ");
     scanf("%d",&gu);
 
-    float ff=(en+hi+gu)/2; 
+    
     printf("\nTotal Mark is = %d",en+hi+gu);
-    printf("\nTotal Mark is = %d",ff);
+    printf("Hello");
 
     return 0;
 }
